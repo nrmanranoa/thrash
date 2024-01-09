@@ -1,0 +1,4 @@
+# Byte-compiled files
+__pychache__/
+# Environment files
+.env
